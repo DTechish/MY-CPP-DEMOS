@@ -3,11 +3,10 @@
 #include <limits>
 
 /****************************************************
-Author         -  Daniel Glover - Akpey aka DNA Programmers
+Author         -  Daniel Glover - Akpey
 Date           -  7th September, 2020 ~ 8th September, 2020
-Instagram      -  dnaprogrammers & danielglover607
-Twitter        -  dnaprogrammers
-Facebook Page  -  DNA Programmers
+Instagram      -  @codingnewbies
+Twitter        -  @codingnewbies
 IDE            -  Code::Blocks 20.03
 Complier       -  G++ ver 8, MingW W64 GCC-8.1.0 x86_64-win32-seh
 *****************************************************/
