@@ -5,9 +5,8 @@
 /****************************************************
 Author         ->  Daniel Glover - Akpey
 Date           ->  7th September, 2020 ~ 8th September, 2020
-Instagram      ->  @programmerdanny
-Twitter        ->  @programmerdanny
-Discord        ->  @programmerdanny#5632
+Instagram      ->  @_thatsdanny
+Discord        ->  @DTechish#5632
 IDE            ->  Code::Blocks 20.03
 Complier       ->  G++ ver 8, MingW W64 GCC-8.1.0 x86_64-win32-seh
 *****************************************************/
