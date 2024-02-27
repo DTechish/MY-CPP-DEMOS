@@ -1,12 +1,9 @@
 #include <iostream>
 #include <vector>
 
-********************************************************************
-Author         ->  Daniel Glover - Akpey
+/********************************************************************
+Author         ->  Daniel Glover
 Date           ->  18th September 2020 ~ 19th September 2020
-Instagram      ->  @programmerdanny
-Twitter        ->  @programmerdanny
-Discord        ->  @programmerdanny#5832
 IDE            ->  Code::Blocks 20.03
 Complier       ->  G++ ver 8, MingW W64 GCC-8.1.0 x86_64-win32-seh
 *********************************************************************/
